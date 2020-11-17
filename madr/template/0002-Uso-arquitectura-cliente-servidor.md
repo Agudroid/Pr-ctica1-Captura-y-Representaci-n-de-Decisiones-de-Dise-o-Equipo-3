@@ -52,12 +52,4 @@ Red distribuida de datos
 * Malo, porque la presencia de firewalls o proxys puede dificultar que el usuario use el sistema
 * Malo, porque cada microservicio una base de datos puede resultar ineficiente en memoria para el cliente, y puede haber redundancia, o puede darse que se hayan desconectado de la red todos los clientes con ese dato y no esté disponible 
 
-* … <!-- numbers of pros and cons can vary -->
 
-### [option 2]
-
-[example | description | pointer to more information | …] <!-- optional -->
-
-* Good, because [argument a]
-* Good, because [argument b]
-* Bad, because [argument c]
